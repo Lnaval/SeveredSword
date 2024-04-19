@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660995586996",
+    "firebase_url": "https://severed-sword-33d81-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "severed-sword-33d81",
+    "storage_bucket": "severed-sword-33d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660995586996:android:175ba4eaf752cbc14410e1",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SeveredSword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660995586996-hvd0f8luvh4gtb824ammskvbjaa5lvcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.SeveredSword",
+            "certificate_hash": "de7ba197a37c4d157e062f449e82d4010ad05b8c"
+          }
+        },
+        {
+          "client_id": "660995586996-iprdg5s8skapshj2r4a1t3jk3au4v80i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClCwulCMGk-PIcSbr0JucRaIFOyi9fIA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660995586996-d4un28mmm90e5e9n92hhtsd2r3a9fmlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

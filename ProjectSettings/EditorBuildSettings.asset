@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Authentication.unity
+    guid: 25117918f637b88408c620c118411614
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 42d3a35cb668e9244af33d3946892bbf
+  - enabled: 1
+    path: Assets/Scenes/Scanner.unity
+    guid: 23eb571e804e8e3478e4e7ba0967f137
+  - enabled: 1
+    path: Assets/Scenes/PlayerSide.unity
+    guid: f070c812532173f4abd5b84ba2c583b3
+  - enabled: 1
+    path: Assets/Scenes/Admin.unity
+    guid: 738d23ca7eaa91f49a6563a68c83cb58
+  - enabled: 0
+    path: Assets/Scenes/test scenes/Puzzle.unity
+    guid: dddd3006104c63247a459ecc73135103
+  - enabled: 0
+    path: Assets/Scenes/test scenes/UI_Test.unity
+    guid: 5729c536fb74a2e43a84ca37789a30fb
+  - enabled: 0
+    path: Assets/Scenes/test scenes/SampleScene.unity
+    guid: d3c095d7e7b30644c925998a0b5842a5
+  - enabled: 0
+    path: Assets/Scenes/test scenes/StoryView.unity
+    guid: 94cdd6614527d4446a89fe037301d24a
+  - enabled: 0
+    path: Assets/Scenes/test scenes/PlayerSide_Test.unity
+    guid: 5361aeaf85d2a5043bd620ee5471d0a0
+  - enabled: 0
+    path: Assets/Scenes/test scenes/StoryCRUD 1.unity
+    guid: fdca36021c9e46e4898ff11a1e53b42d
+  m_configObjects: {}

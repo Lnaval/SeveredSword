@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://severed-sword-33d81-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">660995586996</string>
+  <string name="google_storage_bucket" translatable="false">severed-sword-33d81.appspot.com</string>
+  <string name="project_id" translatable="false">severed-sword-33d81</string>
+  <string name="google_api_key" translatable="false">AIzaSyClCwulCMGk-PIcSbr0JucRaIFOyi9fIA0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyClCwulCMGk-PIcSbr0JucRaIFOyi9fIA0</string>
+  <string name="google_app_id" translatable="false">1:660995586996:android:175ba4eaf752cbc14410e1</string>
+  <string name="default_android_client_id" translatable="false">660995586996-hvd0f8luvh4gtb824ammskvbjaa5lvcd.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">660995586996-iprdg5s8skapshj2r4a1t3jk3au4v80i.apps.googleusercontent.com</string>
+</resources>
