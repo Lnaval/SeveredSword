@@ -18,7 +18,7 @@ and encouragement to collaboration and cooperation to serve as an improvement to
 OrSem that of Ateneo de Naga University. Through a quasi-experimental approach utilizing a
 paired-sample t-test a statistically quantitative significant e↵ect was seen and a qualitative positive
 e↵ect was inferred from the respondents after subjecting the respondents to the ARG. The study
-then concludes that there is a positive e↵ect and a benefit in using an ARG on the Orientation
+then concludes that there is a positive effect and a benefit in using an ARG on the Orientation
 Seminar of Ateneo de Naga University.
 
 
