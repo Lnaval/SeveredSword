@@ -20,3 +20,6 @@ paired-sample t-test a statistically quantitative significant e↵ect was seen a
 e↵ect was inferred from the respondents after subjecting the respondents to the ARG. The study
 then concludes that there is a positive e↵ect and a benefit in using an ARG on the Orientation
 Seminar of Ateneo de Naga University.
+
+
+The full paper can be read here: https://drive.google.com/file/d/1aqgOWGsRm7f3B5Zqi-45kC777AUGbecC/view?usp=sharing
